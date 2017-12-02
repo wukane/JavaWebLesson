@@ -1,4 +1,4 @@
-<%@ page import="java.util.ArrayList" %>
+<%@ page import="java.util.ArrayList" %>//编译指令page
 <%@ page import="java.util.LinkedList" %><%--
   Created by IntelliJ IDEA.
   User: Administrator

@@ -12,8 +12,8 @@
     <title> 编译指令include</title>
 </head>
 <body>
-<%@ include file="test_include.html" %>
-<%@ include file="index.jsp"%>
-<jsp:include page="test.html"/>
+<%@ include file="test_include.html" %>//编译指令
+<%@ include file="test.jsp"%>
+<%@ include file="test.html"%>
 </body>
 </html>
