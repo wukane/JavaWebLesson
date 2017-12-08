@@ -13,7 +13,7 @@
 <body>
 
 <%
-  String str ="hello world";
+  String str ="hello world  ";
   out.print(str);
 %>
 <hr/>
